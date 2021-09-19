@@ -118,6 +118,16 @@
         }
       }
     },
+
+    {
+  "name": "水果派(Web)",
+  "pic": "sgptv.cc/icons/ic_txt_logo.png",
+  "type": "webPlug",
+  "ads": "",
+  "webUrl": "https://sgptv.cc/",
+  "webOpen": true,
+  "click": true
+     },
     {
       "name": "NFXHD(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
