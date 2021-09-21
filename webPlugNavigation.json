@@ -3,8 +3,9 @@
 
    {
        "name": "水果派(Web)",
-       "pic": "sgptv.cc/icons/ic_txt_logo.png",
+       "pic": "https://sgptv.cc/icons/ic_txt_logo.png",
        "type": "webPlug",
+       "userAgent": "Android",
        "ads": "",
        "webUrl": "https://sgptv.cc/",
        "webOpen": true,
@@ -17,7 +18,7 @@
       "keyUpPlay": false,
       "userAgent": "PC",
       "ads": "",
-      "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110",
+      "webUrl": "https://zseduc.com/?zxfast",
       "webOpen": true,
       "click": true
     }
