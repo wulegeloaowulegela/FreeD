@@ -2,23 +2,23 @@
   "data": [
 
    {
-       "name": "水果派(Web)",
+       "name": "书签(Web)",
        "pic": "https://sgptv.cc/icons/ic_txt_logo.png",
        "type": "webPlug",
        "userAgent": "Android",
        "ads": "",
-       "webUrl": "https://sgptv.cc/",
+       "webUrl": "https://note.youdao.com/s/aTjhv3hh",
        "webOpen": true,
        "click": true
     },   
     {
-      "name": "企鹅一起看(Web)",
+      "name": "书签2(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "keyDownPlay": false,
       "keyUpPlay": false,
       "userAgent": "PC",
       "ads": "",
-      "webUrl": "https://zseduc.com/?zxfast",
+      "webUrl": "https://note.youdao.com/s/1ycyujon",
       "webOpen": true,
       "click": true
     }
